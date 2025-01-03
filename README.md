@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
