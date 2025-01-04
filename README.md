@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -24,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0504-base-7](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
+## Array
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
