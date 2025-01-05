@@ -97,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
