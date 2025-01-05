@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 ## Breadth-First Search
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
