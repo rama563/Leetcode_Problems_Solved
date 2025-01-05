@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
