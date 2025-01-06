@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
