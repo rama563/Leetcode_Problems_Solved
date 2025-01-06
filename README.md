@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
