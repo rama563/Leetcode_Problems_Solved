@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
