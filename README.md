@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 ## String Matching
