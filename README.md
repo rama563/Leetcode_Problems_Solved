@@ -117,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
+| [0686-repeated-string-match](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
