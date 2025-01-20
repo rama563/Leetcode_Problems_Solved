@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
