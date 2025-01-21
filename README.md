@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1078-remove-outermost-parentheses) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## String Matching
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Recursion
 |  |
 | ------- |
