@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -144,4 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
