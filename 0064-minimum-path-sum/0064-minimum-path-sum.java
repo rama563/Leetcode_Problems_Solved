@@ -5,12 +5,7 @@ class Solution {
         if (i >= m || j >= n) return Integer.MAX_VALUE; // Boundary check
         if (i == m - 1 && j == n - 1) return grid[i][j]; // Base case: bottom-right corner
         if (dp[i][j] != -1) return dp[i][j]; // Return cached result
-
-        // Calculate minimum path sum for the current cell
-        int right = solve(i, j + 1, m, n, dp, grid); // Move right
-        int down = solve(i + 1, j, m, n, dp, grid); // Move down
-
-        dp[i][j] = grid[i][j] + Math.min(right, down); // Add the current cell value
+        dp[i][j] = grid[i][j] + Math.min((solve(i, j + 1, m, n, dp, grid)), (solve(i + 1, j, m, n, dp, grid))); // Add the current cell value
         return dp[i][j];
     }
 
