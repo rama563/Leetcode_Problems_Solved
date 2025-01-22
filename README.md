@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Number Theory
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String Matching
 |  |
 | ------- |
