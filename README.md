@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Recursion
