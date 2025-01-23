@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
