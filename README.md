@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
+| [0376-wiggle-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0376-wiggle-subsequence) |
 | [0496-next-greater-element-i](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
+| [0376-wiggle-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
