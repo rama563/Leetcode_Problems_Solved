@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Breadth-First Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Recursion
 |  |
 | ------- |
