@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0948-sort-an-array) |
+| [0971-shortest-bridge](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0971-shortest-bridge) |
 | [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0064-minimum-path-sum) |
 | [0695-max-area-of-island](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0971-shortest-bridge) |
 ## Divide and Conquer
 |  |
 | ------- |
