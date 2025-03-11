@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2238-a-number-after-a-double-reversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2383-add-two-integers) |
 ## Array
 |  |
