@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2383-add-two-integers) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Array
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0376-wiggle-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
