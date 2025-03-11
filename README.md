@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2383-add-two-integers) |
@@ -230,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
