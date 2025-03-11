@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1070-convert-to-base-2) |
+| [1086-divisor-game](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2238-a-number-after-a-double-reversal) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0639-decode-ways-ii) |
 | [1013-fibonacci-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
