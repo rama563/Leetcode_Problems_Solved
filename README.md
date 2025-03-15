@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0063-unique-paths-ii) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/1806-count-of-matches-in-tournament) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
