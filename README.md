@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0283-move-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0087-scramble-string) |
+| [0118-pascals-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rama563/Leetcode_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
